@@ -1,10 +1,34 @@
 Earthquake Project: Team 9
 =============================
 ###Collaborators
-<b>Joy Chen</b> | @joyyqchen<br>
-<b>Sam Kirschner</b> | @<br>
-<b>Brian Liou</b> | @brianliou<br>
-<b>Eric Tsai</b> | @<br>
+<table border="0">
+<tr>
+<th>Name</th>
+<th>Role</th>
+<th>GitHub Id</th>
+</tr>
+<tr>
+<td>Joy Chen</td>
+<td>Visualizer</td>
+<td>@joyyqchen</td>
+</tr>
+<tr>
+<td>Sam Kirschner</td>
+<td>Visualizer</td>
+<td>@</td>
+</tr>
+<tr>
+<td>Brian Liou</td>
+<td>Presenter</td>
+<td>@brianliou</td>
+</tr>
+<tr>
+<td>Eric Tsai</td>
+<td>Analyzer</td>
+<td>@</td>
+</tr>
+</table>
+
 
 
 ###Task at Hand: Task 2
