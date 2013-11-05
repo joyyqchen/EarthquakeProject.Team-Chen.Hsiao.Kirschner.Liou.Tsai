@@ -71,6 +71,8 @@ Earthquake Project: Team 9
 <th>Longitude</th>
 <th>Magnitude</th>
 <th>Duration (minutes)</th>
+<th>ETAS Probability</th>
+<th>Stark Probability</th>
 </tr>
 <tr>
 <td><i><b>Sample</i></b></td>
@@ -80,6 +82,8 @@ Earthquake Project: Team 9
 <td>-135.33</td>
 <td>3.0</td>
 <td>1.5</td>
+<td>0.25</td>
+<td>0.33</td>
 </tr>
 </table>
 
