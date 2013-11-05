@@ -46,6 +46,9 @@ Earthquake Project: Team 9
 - what are the pro’s and con’s of each method
 - which format could be used to make the graph dynamic?
 
+
+
+
 ###SMART Goals
 -------------------------------------------------------------------
 1. Determine which data format would be most appropriate for data curators to export/analyzers to use as inputs
