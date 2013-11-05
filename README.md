@@ -1,4 +1,4 @@
-SMART Goals
+Earthquake Project: Team 9
 =============================
 ###Collaborators
 <b>Joy Chen</b> | @joyyqchen<br>
@@ -6,7 +6,7 @@ SMART Goals
 <b>Brian Liou</b> | @brianliou<br>
 <b>Eric Tsai</b> | @<br>
 
-###Goals
+###SMART Goals
 1. Determine which data format would be most appropriate for data curators to export/analyzers to use as inputs
 2. Understand what data parameters come out of an ETAS Model
 3. Create a standardized data format/structure for the outputs from the ETAS Model
