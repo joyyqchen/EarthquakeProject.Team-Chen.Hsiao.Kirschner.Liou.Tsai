@@ -81,9 +81,8 @@ Earthquake Project: Team 9
 <td>3.0</td>
 <td>1.5</td>
 </tr>
-
 </table>
 
-4. Roadblock: need to coordinate with visualization group to determine how the graph should look before we can do testing
+4. <b>Roadblock</b>: need to coordinate with visualization group to determine how the graph should look before we can do testing
 
 
