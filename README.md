@@ -36,11 +36,11 @@ Earthquake Project: Team 9
 <i>From the task list in the Issue Tracker of the Presenters Repository</i>
 <br><br>
 <b>Researching and Negotiating on Data Formats:</b>
-- Curator: Construct interface for Curators and Visualizers to to utilize 
+- Curator: Construct interface for Curators and Visualizers to to utilize
 - what is the most common one
 - JSON versus CSV versus XML
 - Data Frame versus 2-D Array versus List of Dictionaries
-- Analyzers/Visualizers: research sufficient/functional data formats in terms of ease-of-use and ability to produce visuals~~
+- Analyzers/Visualizers: research sufficient/functional data formats in terms of ease-of-use and ability to produce visuals
 - Presenters: decide on how to present the data
 - iPython notebook, HTML, etc.
 - what are the pro’s and con’s of each method
