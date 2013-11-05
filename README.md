@@ -60,4 +60,30 @@ Earthquake Project: Team 9
 ###SMART Goal Results
 -------------------------------------------------------------------
 1. Our group has determined that the CSV format would be most appropriate for data curators to export for analyzers to use in the models. CSV has the most efficient and simple structure and can be easily imported/disected by the analyzers. We have also determined that it would be helpful for the data curators to also publish the same data in JSON format for the visualizers. If some visualizers want to create graphs in D3, the JSON format would be most adaptable.
-2. The ETAS Model produces the 
+2. The ETAS Model produces a probability that an earthquake will occur at any given moment given past patterns.
+3. A sample data structure may look like the following:
+ <table border="0">
+<tr>
+<th></th>
+<th>City</th>
+<th>State</th>
+<th>Latitude</th>
+<th>Longitude</th>
+<th>Magnitude</th>
+<th>Duration (minutes)</th>
+</tr>
+<tr>
+<td><i><b>Sample</i></b></td>
+<td>Sitka</td>
+<td>Alaska</td>
+<td>57.053056</td>
+<td>-135.33</td>
+<td>3.0</td>
+<td>1.5</td>
+</tr>
+
+</table>
+
+4. Roadblock: need to coordinate with visualization group to determine how the graph should look before we can do testing
+
+
