@@ -73,6 +73,9 @@ Earthquake Project: Team 9
 <th>Duration (minutes)</th>
 <th>ETAS Probability</th>
 <th>Stark Probability</th>
+<th>Alarm Process Range</th>
+<th>SAPP</th>
+<th>PT Process</th>
 </tr>
 <tr>
 <td><i><b>Sample</i></b></td>
@@ -84,6 +87,9 @@ Earthquake Project: Team 9
 <td>1.5</td>
 <td>0.25</td>
 <td>0.33</td>
+<td>Talk to Roland's Group</td>
+<td>Talk to Laura's Group</td>
+<td>Talk to Laura's Group</td>
 </tr>
 </table>
 
