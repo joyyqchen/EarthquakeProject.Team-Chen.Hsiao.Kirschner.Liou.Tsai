@@ -15,7 +15,7 @@ Earthquake Project: Team 9
 <tr>
 <td>Sam Kirschner</td>
 <td>Visualizer</td>
-<td>@</td>
+<td>@drmeow</td>
 </tr>
 <tr>
 <td>Brian Liou</td>
