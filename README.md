@@ -25,7 +25,7 @@ Earthquake Project: Team 9
 <tr>
 <td>Eric Tsai</td>
 <td>Analyzer</td>
-<td>@</td>
+<td>@wxadqcze</td>
 </tr>
 </table>
 
