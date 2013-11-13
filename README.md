@@ -56,6 +56,8 @@ Earthquake Project: Team 9
 3. Create a standardized data format/structure for the outputs from the ETA/MDA Model
 4. Test to see if the formatted data can be imported into a visualization tool to be visualized* <br>
 <i>*Since the actual data is currently unavailable, create proxy "fake" data in the same structure and format that we expect the real data to be in and test (4) using that data</i>
+5. Learn and understand the basics of D3
+6. Think about which tools/packages within R can create the best visualizations given the data we are working with
 
 ###SMART Goal Results
 -------------------------------------------------------------------
