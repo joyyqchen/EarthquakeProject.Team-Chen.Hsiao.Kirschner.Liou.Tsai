@@ -52,8 +52,8 @@ Earthquake Project: Team 9
 ###SMART Goals
 -------------------------------------------------------------------
 1. Determine which data format would be most appropriate for data curators to export/analyzers to use as inputs
-2. Understand what data parameters come out of an ETAS Model
-3. Create a standardized data format/structure for the outputs from the ETAS Model
+2. Understand what data parameters come out of an ETAS/MDA Model
+3. Create a standardized data format/structure for the outputs from the ETA/MDA Model
 4. Test to see if the formatted data can be imported into a visualization tool to be visualized* <br>
 <i>*Since the actual data is currently unavailable, create proxy "fake" data in the same structure and format that we expect the real data to be in and test (4) using that data</i>
 
