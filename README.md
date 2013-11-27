@@ -13,6 +13,11 @@ Earthquake Project: Team 9
 <td>@joyyqchen</td>
 </tr>
 <tr>
+<td>Lorraine Hsiao</td>
+<td>Visualizer</td>
+<td>@lorrainehsiao</td>
+</tr>
+<tr>
 <td>Sam Kirschner</td>
 <td>Visualizer</td>
 <td>@drmeow</td>
@@ -24,9 +29,10 @@ Earthquake Project: Team 9
 </tr>
 <tr>
 <td>Eric Tsai</td>
-<td>Analyzer</td>
+<td>Visualizer</td>
 <td>@wxadqcze</td>
 </tr>
+
 </table>
 
 
