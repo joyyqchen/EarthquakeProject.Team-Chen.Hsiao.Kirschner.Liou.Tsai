@@ -87,8 +87,8 @@ Earthquake Project: Team 9
 </tr>
 <tr>
 <td><i><b>Sample</i></b></td>
-<td>Sitka</td>
-<td>Alaska</td>
+<td>San Diego</td>
+<td>California</td>
 <td>57.053056</td>
 <td>-135.33</td>
 <td>3.0</td>
@@ -101,7 +101,7 @@ Earthquake Project: Team 9
 </tr>
 </table>
 
-4. <b>MDA Alarm Windows.jpg</b><br> A visualization depicting the magnitudes of earthquakes over time with blue and red lines overlaid that symbolize the start and stop times of the alarm, respectively.Please refer to <i>MDA Alarm Windows Plotting Notebook</i> for the code used.<br>
+4. <b>MDA Alarm Windows.jpg</b><br> A visualization depicting the magnitudes of earthquakes in Southern California over time with blue and red lines overlaid that symbolize the start and stop times of the alarm, respectively.Please refer to <i>MDA Alarm Windows Plotting Notebook</i> for the code used.<br>
 <img src="https://github.com/joyyqchen/EarthquakeProject.Team-Chen.Hsiao.Kirschner.Liou.Tsai/blob/master/MDA%20Alarm%20Windows.jpg?raw=true" alt="MDA Alarm Windows" width="850" height="600">
 
 
