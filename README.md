@@ -95,4 +95,10 @@ Earthquake Project: Team 9
 </tr>
 </table>
 
-4. <b>Roadblock</b>: need to coordinate with visualization group to determine how the graph should look before we can do testing
+4. <b>MDA Alarm Windows.jpg</b> is a visualization depicting the magnitudes of earthquakes over time with blue and red lines overlaid that symbolize the start and stop times of the alarm, respectively.<br><img src="https://github.com/joyyqchen/EarthquakeProject.Team-Chen.Hsiao.Kirschner.Liou.Tsai/blob/master/MDA%20Alarm%20Windows.jpg?raw=true" alt="MDA Alarm Windows">
+5. 
+ 
+
+5. 
+5. 
+
