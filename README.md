@@ -101,7 +101,7 @@ Earthquake Project: Team 9
 </tr>
 </table>
 
-4. <b>MDA Alarm Windows.jpg</b><br> A visualization depicting the magnitudes of earthquakes over time with blue and red lines overlaid that symbolize the start and stop times of the alarm, respectively.<br>Please refer to <i>MDA Alarm Windows Plotting Notebook</i> for the code used.<br>
-<div align="center"> <img src="https://github.com/joyyqchen/EarthquakeProject.Team-Chen.Hsiao.Kirschner.Liou.Tsai/blob/master/MDA%20Alarm%20Windows.jpg?raw=true" alt="MDA Alarm Windows"></div>
+4. <b>MDA Alarm Windows.jpg</b><br> A visualization depicting the magnitudes of earthquakes over time with blue and red lines overlaid that symbolize the start and stop times of the alarm, respectively.Please refer to <i>MDA Alarm Windows Plotting Notebook</i> for the code used.<br>
+<div align="center"> <img src="https://github.com/joyyqchen/EarthquakeProject.Team-Chen.Hsiao.Kirschner.Liou.Tsai/blob/master/MDA%20Alarm%20Windows.jpg?raw=true" alt="MDA Alarm Windows" width="50" height="50"></div>
 
 
